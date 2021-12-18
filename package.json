@@ -1,0 +1,23 @@
+{
+  "name": "dcwa_g00381563",
+  "version": "1.0.0",
+  "description": "Dylan Whelan's Data Centric Web Applications Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanWhelan/dcwa_g00381563.git"
+  },
+  "author": "Dylan Whelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanWhelan/dcwa_g00381563/issues"
+  },
+  "homepage": "https://github.com/DylanWhelan/dcwa_g00381563#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
